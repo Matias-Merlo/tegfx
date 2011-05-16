@@ -1892,7 +1892,7 @@ vez que se sacó esa tarjeta.
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="F/Z3iF85aEOWBg/d+pUN3gAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="d9hRC604sky6p6RcFK4MaQAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">20 - Incorporar ejércitos</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">22 - Incorporar ejércitos</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="I5rva3v4gUaoRGz7C+k1uQAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -2670,8 +2670,8 @@ vez que se sacó esa tarjeta.
 <XPD:REF name="Participant">nz6ON7VbHEeCgODxEofc+gAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">c1CxCkrT6k6wqi+m0pPf7QAA</XPD:REF>
-<XPD:REF name="Views[1]">t5hV3TFdz0KmjDBhxoTbegAA</XPD:REF>
-<XPD:REF name="Views[2]">9K8B6uJIYkaGfFGYsRmZtgAA</XPD:REF>
+<XPD:REF name="Views[1]">9K8B6uJIYkaGfFGYsRmZtgAA</XPD:REF>
+<XPD:REF name="Views[2]">t5hV3TFdz0KmjDBhxoTbegAA</XPD:REF>
 <XPD:REF name="Views[3]">+my64sPQoUitD4IM7iu19wAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Connections[1]" type="UMLAssociationEnd" guid="SB4m5hRbAESDNCr9F7yKqAAA">
@@ -2679,8 +2679,8 @@ vez que se sacó esa tarjeta.
 <XPD:REF name="Participant">k58tUqT9sUyVCS9ktdvP0AAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">76rMXPS0o0iKk6DHrq0tdwAA</XPD:REF>
-<XPD:REF name="Views[1]">6rernK+44kOBwZYmju3cYwAA</XPD:REF>
-<XPD:REF name="Views[2]">l5sVd1zBHU2+0wJUFkFq3QAA</XPD:REF>
+<XPD:REF name="Views[1]">l5sVd1zBHU2+0wJUFkFq3QAA</XPD:REF>
+<XPD:REF name="Views[2]">6rernK+44kOBwZYmju3cYwAA</XPD:REF>
 <XPD:REF name="Views[3]">oKrL11St4UK5bwxQP5lvcQAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
@@ -2698,8 +2698,8 @@ vez que se sacó esa tarjeta.
 <XPD:REF name="Participant">nz6ON7VbHEeCgODxEofc+gAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">9LDXcTj7LUuWWM9y1coVKAAA</XPD:REF>
-<XPD:REF name="Views[1]">wgh4Wvsxw0Wh1ufJ7iOAIgAA</XPD:REF>
-<XPD:REF name="Views[2]">zzh5p0xjPk2Mi5h+Mr5hCwAA</XPD:REF>
+<XPD:REF name="Views[1]">zzh5p0xjPk2Mi5h+Mr5hCwAA</XPD:REF>
+<XPD:REF name="Views[2]">wgh4Wvsxw0Wh1ufJ7iOAIgAA</XPD:REF>
 <XPD:REF name="Views[3]">EN95hovhgEODi2tCgzQQGAAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Connections[1]" type="UMLAssociationEnd" guid="RsDGzgxCf06d7/yloD11WQAA">
@@ -2707,13 +2707,13 @@ vez que se sacó esa tarjeta.
 <XPD:REF name="Participant">WhSD/n8lNke8FH2agSTetgAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">ynJF6ce8OUKAAQcOMDNGhgAA</XPD:REF>
-<XPD:REF name="Views[1]">WV2OxzYtI02fcW369YZOjwAA</XPD:REF>
-<XPD:REF name="Views[2]">Pd9XXo9O7UaVss70VbPXagAA</XPD:REF>
+<XPD:REF name="Views[1]">Pd9XXo9O7UaVss70VbPXagAA</XPD:REF>
+<XPD:REF name="Views[2]">WV2OxzYtI02fcW369YZOjwAA</XPD:REF>
 <XPD:REF name="Views[3]">ZZUlcuICREqB1n+B5IdYVQAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[57]" type="UMLUseCase" guid="YTFjnlZwLE6u//peAtEHugAA">
-<XPD:ATTR name="Name" type="string">20 - Incorporar ejércitos</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">22 - Incorporar ejércitos</XPD:ATTR>
 <XPD:REF name="Namespace">HP/p1nvNDkeOoaZ+Jd42zwAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">aibvYdNXDE297dTEyVAp2wAA</XPD:REF>
