@@ -18,7 +18,7 @@
 <XPD:REF name="Namespace">w2SBztSEVEuGiVt/LlxjvQAA</XPD:REF>
 <XPD:ATTR name="#OwnedDiagrams" type="integer">1</XPD:ATTR>
 <XPD:OBJ name="OwnedDiagrams[0]" type="UMLUseCaseDiagram" guid="rcUj9738+EqSeJaFPJUwdAAA">
-<XPD:ATTR name="Name" type="string">Main</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">DCU</XPD:ATTR>
 <XPD:REF name="DiagramOwner">HP/p1nvNDkeOoaZ+Jd42zwAA</XPD:REF>
 <XPD:OBJ name="DiagramView" type="UMLUseCaseDiagramView" guid="7XRUxXWpE0680ptB1TQoAAAA">
 <XPD:REF name="Diagram">rcUj9738+EqSeJaFPJUwdAAA</XPD:REF>
@@ -224,7 +224,7 @@
 </XPD:OBJ>
 <XPD:OBJ name="OwnedViews[6]" type="UMLUseCaseView" guid="Qu967d6mx0aSySoXa803cgAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
-<XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
+<XPD:ATTR name="FillColor" type="string">clGray</XPD:ATTR>
 <XPD:ATTR name="Left" type="integer">392</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">320</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">137</XPD:ATTR>
@@ -3069,17 +3069,8 @@ vez que se sacó esa tarjeta.
 <XPD:ATTR name="StereotypeProfile" type="string">UMLStandard</XPD:ATTR>
 <XPD:ATTR name="StereotypeName" type="string">analysisModel</XPD:ATTR>
 <XPD:REF name="Namespace">w2SBztSEVEuGiVt/LlxjvQAA</XPD:REF>
-<XPD:ATTR name="#OwnedDiagrams" type="integer">2</XPD:ATTR>
-<XPD:OBJ name="OwnedDiagrams[0]" type="UMLClassDiagram" guid="E44Uc10zhEOhdQt0TqUm5AAA">
-<XPD:ATTR name="Name" type="string">Main</XPD:ATTR>
-<XPD:ATTR name="DefaultDiagram" type="boolean">True</XPD:ATTR>
-<XPD:ATTR name="DiagramType" type="string">RobustnessDiagram</XPD:ATTR>
-<XPD:REF name="DiagramOwner">UDvrKkmryk+uT2BmHA2JWAAA</XPD:REF>
-<XPD:OBJ name="DiagramView" type="UMLClassDiagramView" guid="KLJXiNBELky6GwYvx6o5GAAA">
-<XPD:REF name="Diagram">E44Uc10zhEOhdQt0TqUm5AAA</XPD:REF>
-</XPD:OBJ>
-</XPD:OBJ>
-<XPD:OBJ name="OwnedDiagrams[1]" type="UMLClassDiagram" guid="/cxTMxylpEKKrfqZf6O8IAAA">
+<XPD:ATTR name="#OwnedDiagrams" type="integer">1</XPD:ATTR>
+<XPD:OBJ name="OwnedDiagrams[0]" type="UMLClassDiagram" guid="/cxTMxylpEKKrfqZf6O8IAAA">
 <XPD:ATTR name="Name" type="string">DDC</XPD:ATTR>
 <XPD:REF name="DiagramOwner">UDvrKkmryk+uT2BmHA2JWAAA</XPD:REF>
 <XPD:OBJ name="DiagramView" type="UMLClassDiagramView" guid="56dgrKPaU0uN5IEWe8aRGgAA">
